@@ -11,10 +11,10 @@ a{
 
 
 .nav_link{
-    color:rgb(32, 32, 32);
+    color:rgb(0, 0, 0);
     padding: 4px;
     border-radius: 5px;
-    background-color: rgba(35, 60, 75, 0.329);
+    background-color: rgba(56, 80, 95, 0.329);
     font-size: 15px;
 }
 
@@ -32,7 +32,7 @@ a{
 }
 
 nav{
-    background: linear-gradient(to top left, rgb(96, 121, 231), rgb(108, 247, 200));
+    background: rgb(255, 255, 255);
     height: 20vh;
     display: flex;
     align-items: center;
